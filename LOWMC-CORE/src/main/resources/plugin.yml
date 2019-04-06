@@ -1,0 +1,7 @@
+name: CorePlugin
+version: ${project.version}
+main: net.lowmc.core.CorePlugin
+api-version: 1.13
+authors: [Piechuuu, Sklejuwa]
+description: Core lowmc.pl
+website: www.lowmc.pl
