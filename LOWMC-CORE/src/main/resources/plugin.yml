@@ -5,3 +5,7 @@ api-version: 1.13
 authors: [Piechuuu, Sklejuwa]
 description: Core lowmc.pl
 website: www.lowmc.pl
+
+commands:
+  vip:
+    description: Po wpisaniu ukazuja sie informacje na temat rangi vip
