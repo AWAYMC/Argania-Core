@@ -9,8 +9,7 @@ import org.bukkit.entity.Player;
 public class CMDEnderchest implements CommandExecutor {
 
     @Override
-    public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
-        if(!(sender instanceof Player)){
+    public boolean onCommand(CommandSender sender, Command command, String label, String[] args) { //JEBAC CIE XD
             sender.sendMessage("ta komenda nie jest od poziomu konsolii");
             return false;
         }
