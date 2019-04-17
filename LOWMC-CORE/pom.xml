@@ -4,17 +4,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>net.argania.core</groupId>
-    <artifactId>Main</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>net.lowmc.core</groupId>
+    <artifactId>CorePlugin</artifactId>
+    <version>1.0-BETA</version>
     <packaging>jar</packaging>
 
-    <name>Main</name>
+    <name>CorePlugin</name>
 
+    <description>Core lowmc.pl</description>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <url>www.argania.pl</url>
+    <url>www.lowmc.pl</url>
 
     <build>
         <defaultGoal>clean package</defaultGoal>
@@ -47,7 +48,7 @@
         </plugins>
         <resources>
             <resource>
-                <directory>ArganiaCore/src/main/resources</directory>
+                <directory>src/main/resources</directory>
                 <filtering>true</filtering>
             </resource>
         </resources>

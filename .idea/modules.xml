@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARG-CORE/ARG-CORE.iml" filepath="$PROJECT_DIR$/ARG-CORE/ARG-CORE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ArganiaCore.iml" filepath="$PROJECT_DIR$/.idea/ArganiaCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LOWMC-CORE/LOWMC-CORE.iml" filepath="$PROJECT_DIR$/LOWMC-CORE/LOWMC-CORE.iml" />
+    </modules>
+  </component>
+</project>

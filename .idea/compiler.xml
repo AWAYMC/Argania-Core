@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ARG-CORE" />
+        <module name="LOWMC-CORE" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ARG-CORE" target="1.8" />
       <module name="ArganiaProject" target="1.8" />
+      <module name="LOWMC-CORE" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

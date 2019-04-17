@@ -1,6 +1,0 @@
-name: Main
-version: ${project.version}
-main: net.argania.core.Main
-api-version: 1.13
-authors: [Piechuuu, Adrianekkk]
-website: www.argania.pl
